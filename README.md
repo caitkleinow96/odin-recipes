@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I build a recipe website page using the basic HTML knowledge I have learned on Odin Project website. I will be able to show that I know how to setup an html boilerplate, the html, head, body tags along with creating a list. 
