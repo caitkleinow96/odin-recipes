@@ -1,0 +1,36 @@
+body {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* Main Recipes List */
+
+.recipes-list {
+    list-style: none;
+    line-height: 2em;
+    text-align: center;
+    padding: 0;
+}
+
+.recipes-list li a{
+    text-decoration: none;
+    font-size: 1.2em;
+    color: black;
+}
+
+li a:hover {
+    color: orange;
+    font-size: 1.3em;
+}
+
+/* Images */
+
+img {
+    margin: auto;
+    display: block;
+    width: 20%;
+}
